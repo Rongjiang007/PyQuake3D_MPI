@@ -21,6 +21,7 @@ Please refer to [Code Manual (PDF)](doc.pdf) for more details.
 -  matplotlib==3.2.2
 -  scipy==1.10.1
 -  joblib==0.16.0
+-  mpi4py==4.0.0
   
   Use pip for the quick installation:
 ```bash
