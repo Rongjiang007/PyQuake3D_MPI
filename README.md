@@ -60,5 +60,9 @@ luca.dalzilio@ntu.edu.sg
 ## Videos
 [Videos of 2023, Turkey earthquake sequence simulation](https://github.com/Rongjiang007/PyQuake3D/issues/1#issue-2984332698)
 
+[Videos of Earthquake cycle modeling of the Cascadia subduction zone](https://github.com/Rongjiang007/PyQuake3D/issues/2#issue)
+
+[Videos of Numerical simulation of main shock and aftershock](https://github.com/Rongjiang007/PyQuake3D/issues/3#issue)
+
 
 
